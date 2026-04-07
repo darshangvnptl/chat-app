@@ -1,0 +1,11 @@
+TechNova Billing and Pricing
+
+TechNova offers three plans: Basic ($9/month), Pro ($29/month) and Enterprise (custom pricing).
+
+To upgrade or downgrade your plan, go to Settings > Billing > Change Plan.
+
+Refunds are available within 14 days of purchase. To request a refund contact billing@technova.com with your order number.
+
+To cancel your subscription go to Settings > Billing > Cancel Subscription. Your account will remain active until the end of the billing period.
+
+Payment methods accepted are Visa, Mastercard and PayPal.

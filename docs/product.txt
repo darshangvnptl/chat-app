@@ -1,0 +1,13 @@
+TechNova Product Overview
+
+TechNova is a SaaS platform that helps teams manage projects, collaborate in real time and track productivity.
+
+Key features include task management, team chat, file sharing, time tracking and reporting dashboards.
+
+TechNova integrates with Slack, Google Workspace, Microsoft Teams and GitHub.
+
+The platform is available on web, iOS and Android.
+
+For technical issues contact support@technova.com or visit our help centre at help.technova.com.
+
+System status and outages are reported at status.technova.com.

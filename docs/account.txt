@@ -1,0 +1,9 @@
+TechNova Account Management
+
+To reset your password, visit app.technova.com/reset and enter your email address. You will receive a reset link within 5 minutes.
+
+To create a new account, visit app.technova.com/signup and fill in your name, email and password. A verification email will be sent to activate your account.
+
+To delete your account, go to Settings > Account > Delete Account. Note that account deletion is permanent and all data will be lost. Allow up to 7 days for full deletion.
+
+If you are locked out of your account after 5 failed login attempts, contact support@technova.com to unlock it.
