@@ -354,7 +354,7 @@ For each vulnerability, the [`security/FINDINGS.md`](security/FINDINGS.md) docum
 
 ## Author
 
-**Darshan Patel** — AppSec Engineer pivoting into AI Security.
+**Darshan Patil** — AppSec Engineer Learning AI Security.
 
 Building in public. Studying for CAISP, hunting on huntr.com, and working through the OWASP LLM Top 10 hands-on.
 
